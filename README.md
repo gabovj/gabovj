@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gabovj
-- 👀 I’m interested in data analysis, machine learning, deep learning
-- 🌱 I’m currently learning data science
+- 👀 I’m interested in building backend focusing in data projects
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gabriel@gabot.dev
 
